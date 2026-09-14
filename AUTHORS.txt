@@ -1,21 +1,4 @@
-Tao Feng
-School of Transportation and Logistics, National and Local Joint Engineering
-Research Center of Integrated Transportation Intelligence, Southwest Jiaotong
-University, Chengdu, China
-Department of Logistics and Maritime Studies, Faculty of Business, The Hong
-Kong Polytechnic University, Hong Kong, China
-
-Qinghe Sun
-Department of Logistics and Maritime Studies, Faculty of Business, The Hong
-Kong Polytechnic University, Hong Kong, China
-
-Shuaian Wang
-Department of Logistics and Maritime Studies, Faculty of Business, The Hong
-Kong Polytechnic University, Hong Kong, China
-
-Lingxiao Wu
-Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic
-University, Hong Kong, China
-
-Corresponding author: Lingxiao Wu
-Email: lingxiao-leo.wu@polyu.edu.hk
+Tao Feng <tao.feng@swjtu.edu.cn>
+Qinghe Sun <qinghe.sun@polyu.edu.hk>
+Shuaian Wang <hans.wang@polyu.edu.hk>
+Lingxiao Wu <lingxiao-leo.wu@polyu.edu.hk>
