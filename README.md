@@ -58,9 +58,6 @@ The repository is organized as follows.
 - Each structural instance is organized as `N**D**/data1` through `data5`.
 - The independent (Bernoulli-based) and line-based 1,000-scenario files are
   stored in `1000_instances`.
-- For a detailed explanation of the instance layout and the mapping between
-  inputs and manuscript tables, see
-  [`README.md`](README.md).
 
 ### RESULTS
 
@@ -68,8 +65,6 @@ The repository is organized as follows.
   [`Results/RobustTrainresults.xlsx`](Results/RobustTrainresults.xlsx).
 - The workbook contains the results reported in the main text and the
   Electronic Companion, organized by manuscript section.
-- See [`README.md`](README.md) for the interpretation of each
-  worksheet and its relation to the reported tables.
 
 ### CODE
 
