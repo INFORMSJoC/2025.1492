@@ -54,21 +54,21 @@ The repository is organized as follows.
 ### DATASETS
 
 - The instance data and disruption scenarios are provided in
-  [`Results/UploadData`](Results/UploadData).
+  [`Instances`](Instances).
 - Each structural instance is organized as `N**D**/data1` through `data5`.
 - The independent (Bernoulli-based) and line-based 1,000-scenario files are
   stored in `1000_instances`.
 - For a detailed explanation of the instance layout and the mapping between
   inputs and manuscript tables, see
-  [`Results/UploadData/README.md`](Results/UploadData/README.md).
+  [`README.md`](README.md).
 
 ### RESULTS
 
 - The final computational results are provided in
-  [`Results/UploadData/resutls/RobustTrainresults.xlsx`](Results/UploadData/resutls/RobustTrainresults.xlsx).
+  [`Results/RobustTrainresults.xlsx`](Results/RobustTrainresults.xlsx).
 - The workbook contains the results reported in the main text and the
   Electronic Companion, organized by manuscript section.
-- See [`Results/README.md`](Results/README.md) for the interpretation of each
+- See [`README.md`](README.md) for the interpretation of each
   worksheet and its relation to the reported tables.
 
 ### CODE
@@ -86,7 +86,7 @@ The repository is organized as follows.
   `Input_Disruptions.csv` from `ROernightTrainLogistics/Dataset/` and writes
   run-specific output to the repository-level `TestLog/` directory.
 - Detailed installation, dependency, and execution instructions are available
-  in [`ROernightTrainLogistics/README.md`](ROernightTrainLogistics/README.md).
+  in [`README.md`](README.md).
 
 ## Replicating
 
@@ -99,7 +99,7 @@ To run the NeBAC implementation for one instance:
    `ROernightTrainLogistics/RoOvernightTrainLogistics.csproj` if CPLEX is
    installed in another location.
 3. Copy `Input_Nodes.csv`, `Input_Links.csv`, and `Input_Paths.csv` from a
-   selected `Results/UploadData/N**D**/data*/` folder to
+   selected `Instances/N**D**/data*/` folder to
    `ROernightTrainLogistics/Dataset/`.
 4. Copy a desired disruption scenario file to the same directory and name it
    `Input_Disruptions.csv`.
