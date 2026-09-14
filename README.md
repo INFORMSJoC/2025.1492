@@ -44,7 +44,7 @@ Below is the BibTex for citing this snapshot of the repository.
 - It includes the curated instance data, disruption scenarios, and the final
   workbook containing the numerical results reported in the manuscript and its
   Electronic Companion.
-- For questions about the package, please contact the corresponding author
+- For questions about the package, please contact the corresponding author (Dr. Lingxiao Wu)
   listed in [AUTHORS.txt](AUTHORS.txt).
 
 ## Repository Structure
