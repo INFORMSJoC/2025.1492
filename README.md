@@ -7,8 +7,8 @@ Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the
 [MIT License](LICENSE.txt).
 
 The software and data in this repository are a snapshot of the software and
-data used in the research reported in *A Nested Branch-and-Cut Approach for 
-Robust Freight Service Planning on Urban Rail Transit Networks* by Tao Feng, 
+data used in the research reported in [A Nested Branch-and-Cut Approach for 
+Robust Freight Service Planning on Urban Rail Transit Networks](https://doi.org/10.1287/ijoc.2025.1492) by Tao Feng, 
 Qinghe Sun, Shuaian Wang, and Lingxiao Wu.
 
 ## Cite
@@ -25,13 +25,11 @@ Below is the BibTex for citing this snapshot of the repository.
 @misc{Feng2026ROFSP,
   author    = {Tao Feng and Qinghe Sun and Shuaian Wang and Lingxiao Wu},
   publisher = {INFORMS Journal on Computing},
-  title     = {A Nested Branch-and-Cut
-               Approach for Robust Freight Service Planning on Urban Rail
-               Transit Networks},
+  title     = {A Nested Branch-and-Cut Approach for Robust Freight Service Planning on Urban Rail Transit Networks},
   year      = {2026},
   doi       = {10.1287/ijoc.2025.1492.cd}
   url       = {https://github.com/INFORMSJoC/2025.1492},
-  note      = {Computational replication package},
+  note      = {Available for download at https://github.com/INFORMSJoC/2025.1492},
 }
 ```
 
